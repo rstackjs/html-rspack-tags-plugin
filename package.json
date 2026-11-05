@@ -64,7 +64,7 @@
     "jasmine": "^3.10.0",
     "jasmine-expect": "^5.0.0",
     "puppeteer": "^25.16.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^6.1.4",
     "semistandard": "^16.0.1",
     "style-loader": "^3.3.1",
     "@rspack/core": "^2.1.7",
